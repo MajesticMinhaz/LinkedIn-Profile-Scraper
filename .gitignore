@@ -1,0 +1,7 @@
+.env
+.idea/
+__pycache__/
+chromedriver.exe
+cookies.json
+data.xlsx
+linkedin_data.db
